@@ -7,3 +7,4 @@ macro_rules! mod_use {
 
 mod_use!(cpu);
 mod_use!(screen);
+mod_use!(config);

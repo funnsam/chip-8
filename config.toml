@@ -1,0 +1,2 @@
+speed = 7_000_000
+branch_rel_quirk = "original" # "original" or "new"
